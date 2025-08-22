@@ -27,7 +27,7 @@ Though modern communication methods have replaced Morse code in most application
 - *Fig 1: Circuit diagram (Simulation)*  
 - *Fig 2: Circuit diagram (Practical)*  
 
-*(See report for detailed diagrams)*  
+*(See attached PDF for detailed diagrams)*  
 
 # User Manual
 - `RESET` - Start/clear display  
